@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cmd"
+	"github.com/stephenmenton/cube_keywords/cmd"
 )
 
 func main() {
